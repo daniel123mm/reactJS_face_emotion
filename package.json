@@ -1,0 +1,23 @@
+{
+  "name": "reactjs_face_emotion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel123mm/reactJS_face_emotion.git"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel123mm/reactJS_face_emotion/issues"
+  },
+  "homepage": "https://github.com/daniel123mm/reactJS_face_emotion#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
