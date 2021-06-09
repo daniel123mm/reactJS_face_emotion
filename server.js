@@ -10,6 +10,6 @@ app.get('/', function(req, res){
 });
 
 
-server.listen(8080,'localhost',function(){
-	console.log('http server listen on port 8080');
+server.listen(1234,'localhost',function(){
+	console.log('http server listen on port 1234');
 });
